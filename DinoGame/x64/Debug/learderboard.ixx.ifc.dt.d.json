@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\learderboard.ixx",
+        "ProvidedModule": "leaderboard",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Score",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\score.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\string",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\string_BBCB669A63AA062D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\vector",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\vector_2C488EE7B13109BB.ifc.dt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\project\\dinogame\\gamemanager.ixx",
+        "ProvidedModule": "gameManager",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "cactus",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\PROJECT\\DinoGame\\DinoGame\\x64\\Debug\\cactus.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\PROJECT\\DinoGame\\DinoGame\\x64\\Debug\\vector_B77EB5B993178006.ifc.dt"
+            }
+        ]
+    }
+}

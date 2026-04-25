@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\input.ixx",
+        "ProvidedModule": "Input",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\string",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\string_ZMWW5NLIA4GNKJSU.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\regex",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\regex_O2UM63S3MRHXZXG0.ifc"
+            }
+        ]
+    }
+}

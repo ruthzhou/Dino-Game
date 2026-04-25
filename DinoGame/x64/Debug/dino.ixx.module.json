@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\Dino.ixx.obj",
+            "outputs": [
+                "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\vc143.pdb",
+                "DinoGame\\x64\\Debug\\",
+                "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\Dino.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Dino",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\dino.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "SFML/Graphics.hpp",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

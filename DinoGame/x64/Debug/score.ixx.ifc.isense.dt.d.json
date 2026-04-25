@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\score.ixx",
+        "ProvidedModule": "Score",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\Graphics.hpp_DDB25D7D12383BC0.ifc.dt"
+            }
+        ]
+    }
+}

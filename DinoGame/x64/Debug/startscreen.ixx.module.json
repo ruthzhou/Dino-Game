@@ -1,0 +1,68 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\startscreen.ixx.obj",
+            "outputs": [
+                "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\vc143.pdb",
+                "DinoGame\\x64\\Debug\\",
+                "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\7839493f-gr11-repo\\Project\\DinoGame\\DinoGame\\x64\\Debug\\startscreen.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "StartScreen",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\startscreen.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Input"
+                },
+                {
+                    "logical-name": "TextBox"
+                },
+                {
+                    "logical-name": "Score"
+                },
+                {
+                    "logical-name": "SFML/Graphics.hpp",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "thread",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\thread",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "chrono",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\chrono",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "fstream",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\fstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "sstream",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\sstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "algorithm",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\algorithm",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\FlyingBird.obj",
+            "outputs": [
+                "DinoGame\\x64\\Debug\\FlyingBird.ixx.ifc.dt.module.json",
+                "DinoGame\\x64\\Debug\\FlyingBird.ixx.ifc.dt.d.json",
+                "DinoGame\\x64\\Debug\\FlyingBird.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "FlyingBird",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\flyingbird.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Obstacle"
+                },
+                {
+                    "logical-name": "SFML/Graphics.hpp",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\7839493f-gr11-repo\\project\\dinogame\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

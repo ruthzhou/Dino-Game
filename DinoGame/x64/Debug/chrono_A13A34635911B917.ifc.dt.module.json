@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\chrono.obj",
+            "outputs": [
+                "DinoGame\\x64\\Debug\\chrono_A13A34635911B917.ifc.dt.module.json",
+                "DinoGame\\x64\\Debug\\chrono_A13A34635911B917.ifc.dt.d.json",
+                "DinoGame\\x64\\Debug\\chrono.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\chrono",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\chrono",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

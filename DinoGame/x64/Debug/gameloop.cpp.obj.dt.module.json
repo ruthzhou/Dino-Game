@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\gameloop.obj",
+            "outputs": [
+                "DinoGame\\x64\\Debug\\gameloop.cpp.obj.dt.module.json",
+                "DinoGame\\x64\\Debug\\gameloop.cpp.obj.dt.d.json"
+            ],
+            "requires": [
+                {
+                    "logical-name": "GameLoop"
+                },
+                {
+                    "logical-name": "GameLoop"
+                }
+            ]
+        }
+    ]
+}

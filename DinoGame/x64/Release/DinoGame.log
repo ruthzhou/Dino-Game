@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DinoGame.vcxproj -> C:\Users\ruthm\OneDrive\Desktop\INFORMATICS S4\COMPUTER PROGRAMMING 4\PROJECT\DinoGame\x64\Release\DinoGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

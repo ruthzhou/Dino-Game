@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DinoGame\\x64\\Debug\\Graphics.hpp_DJD3O9MU2GO0IVF2.obj",
+            "outputs": [
+                "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\PROJECT\\DinoGame\\DinoGame\\x64\\Debug\\vc143.pdb",
+                "DinoGame\\x64\\Debug\\Graphics.hpp_DJD3O9MU2GO0IVF2.module.json",
+                "DinoGame\\x64\\Debug\\Graphics.hpp_DJD3O9MU2GO0IVF2.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\ruthm\\OneDrive\\Desktop\\INFORMATICS S4\\COMPUTER PROGRAMMING 4\\PROJECT\\DinoGame\\include\\SFML\\Graphics.hpp",
+                    "source-path": "c:\\users\\ruthm\\onedrive\\desktop\\informatics s4\\computer programming 4\\project\\dinogame\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

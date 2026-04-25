@@ -1,0 +1,52 @@
+﻿  Scanning sources for module dependencies...
+  input.ixx
+  Dino.ixx
+  score.ixx
+  startscreen.ixx
+  FlyingBird.ixx
+  cactus.ixx
+  gameloop.ixx
+  obstacle.ixx
+  textbox.ixx
+  graphics.hpp
+  regex
+  vector
+  chrono
+  mutex
+  string
+  thread
+  fstream
+  algorithm
+  sstream
+  Compiling...
+  thread
+  regex
+  string
+  chrono
+  mutex
+  graphics.hpp
+  vector
+  fstream
+  textbox.ixx
+  algorithm
+  input.ixx
+  sstream
+  score.ixx
+  Dino.ixx
+  obstacle.ixx
+  FlyingBird.ixx
+  cactus.ixx
+  gameloop.ixx
+  startscreen.ixx
+  cactus.cpp
+  Dino.cpp
+  FlyingBird.cpp
+  gameloop.cpp
+  input.cpp
+  main.cpp
+  obstacle.cpp
+  score.cpp
+C:\Users\ruthm\OneDrive\Desktop\INFORMATICS S4\COMPUTER PROGRAMMING 4\7839493f-gr11-repo\Project\DinoGame\score.cpp(131,10): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  startscreen.cpp
+  Generating Code...
+  DinoGame.vcxproj -> C:\Users\ruthm\OneDrive\Desktop\INFORMATICS S4\COMPUTER PROGRAMMING 4\7839493f-gr11-repo\Project\DinoGame\x64\Debug\DinoGame.exe
